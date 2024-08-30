@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá! Eu sou Guilherme W ou W
+<br></br>
+🔧 Desenvolvedor de Software | Entusiasta de Tecnologia | Resolvedor de Problemas
 
-<!--
-**Wzinhoo/Wzinhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Sobre Mim: Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em [principais linguagens e tecnologias que você usa, por exemplo, JavaScript, Python, React, etc.] e estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
-Here are some ideas to get you started:
+💻 O que eu faço:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvo aplicações web e móveis com foco em [sua área de especialização, como usabilidade, performance, etc.].
+Contribuo para projetos open-source e colaboro com a comunidade de desenvolvedores.
+Estou sempre explorando novas tecnologias e ferramentas para melhorar minhas habilidades.
+
+🔧 Tecnologias que uso:
+
+Linguagens: java, javascript e Python
+<br></br>
+Frontend: JavaScript
+<br></br>
+Backend: Java
+<br></br>
+Mobile: 
+
+📬 Entre em contato: Se você tem alguma dúvida, proposta de colaboração ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para me enviar uma mensagem!
+
