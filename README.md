@@ -16,7 +16,7 @@ Linguagens: java, javascript e Python
 <br></br>
 Frontend: JavaScript
 <br></br>
-Backend: Java
+Backend: Java, Python
 <br></br>
 Mobile: 
 
