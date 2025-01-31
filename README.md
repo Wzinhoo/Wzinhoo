@@ -1,4 +1,4 @@
-👋 Olá! Eu sou Guilherme W ou W
+👋 Olá! Eu sou Guilherme Luiz Wieczorek ou W
 <br></br>
 🔧 Desenvolvedor de Software | Entusiasta de Tecnologia | Resolvedor de Problemas
 
