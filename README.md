@@ -14,7 +14,7 @@ Estou sempre explorando novas tecnologias e ferramentas para melhorar minhas hab
 
 Linguagens: java, javascript e Python
 <br></br>
-Frontend: JavaScript
+Frontend: JavaScript, HTML e CSS
 <br></br>
 Backend: Java, Python
 <br></br>
