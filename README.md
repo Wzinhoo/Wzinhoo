@@ -12,9 +12,9 @@ Estou sempre explorando novas tecnologias e ferramentas para melhorar minhas hab
 
 🔧 Tecnologias que uso:
 
-Linguagens: java, javascript e Python
+Linguagens: java e Python
 <br></br>
-Frontend: JavaScript, HTML e CSS
+Frontend: HTML e CSS
 <br></br>
 Backend: Java, Python
 <br></br>
